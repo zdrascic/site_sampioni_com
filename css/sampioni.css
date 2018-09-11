@@ -1,0 +1,85 @@
+a:link
+{
+	color: #0000FF;
+	font-family: Verdana, Arial, Helvetica;
+
+}
+a:visited
+{
+	color: #0000FF;
+	font-family: Verdana, Arial, Helvetica;
+
+} 
+a:active 
+{
+	color: #0000FF;
+	font-family: Verdana, Arial, Helvetica;
+
+}
+a:hover
+{
+    color: #FF0000;
+    text-decoration: underline
+}
+body
+{
+	font-family: Verdana, Arial, Helvetica;
+	background-color:#ffffff
+	
+}
+
+table
+{
+	table-border-color-light: rgb(255,255,102);
+	table-border-color-dark: rgb(0,0,0); 
+}
+td
+{
+	font-family: Verdana, Arial, Helvetica;
+	color: #000000;
+; font-size: x-small
+}
+.header      { font-family: Verdana, Arial, Helvetica;  color: #FFFFFF; font-weight: bold;font-size: 18px;background-color:#9c9ace}
+.navigation  { color: #FF9900;font-size: x-small}
+.content     { font-family: Verdana, Arial, Helvetica; color: #000000;font-size:x-small}
+.ContentTitle {font-family: Verdana, Arial, Helvetica; font-size: 18px;color:#FF9900;font-weight:bold}
+.separator   {BORDER-LEFT: #808080 1px dashed}
+.footer      { font-family: Verdana, Arial, Helvetica; font-size: xx-small; color: #000000}
+.footertopborder {background-color: #000000}
+.citat      { font-family: Verdana, Arial, Helvetica;  color: #FFFF00; font-weight: bold;font-size: 10px;background-color:#9c9ace; font-style: italic}
+.comment { font-family: Verdana, Arial, Helvetica;  color: #FF9900;font-size: x-small; font-style: italic;font-weight: bold}
+
+
+h1, h2, h3, h4, h5, h6
+{
+	font-family: Verdana, Arial, Helvetica;
+}
+h1
+{
+	color: rgb(255,204,0);
+}
+h2
+{
+	color: #000000; 
+}
+h3
+{
+	color: rgb(204,51,0); 
+}
+h4
+{
+	color: rgb(255,255,153);
+}
+h5
+{
+	color: rgb(255,255,0);
+}
+h6
+{
+	color: rgb(255,255,255);
+}.subheader {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: xx-small; color: #FFFFFF; background-color: #009933}
+.ContentSubTitle {  font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold}
+.ContentTitleHead {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; font-weight: bold; color: #000000;BORDER-TOP: #808080 1px dashed}
+.bulleted {  font-family: Verdana, Arial, Helvetica, sans-serif; list-style-type: square; font-size: x-small}
+li {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small}
+.ContentUpNavigation {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small}
